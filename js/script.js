@@ -67,7 +67,7 @@ window.addEventListener('scroll', () => {
 
     lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
 }, false);
-//video trailer
+//đây là phần js cho nó hiện lên ẩn đi
 const buttonTrailer = document.querySelector('.js_trailer_button')
 const videoTrailer = document.querySelector('.video_trailer')
 const modalTrailer = document.querySelector('.trailer_modal')

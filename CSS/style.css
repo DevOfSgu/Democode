@@ -524,6 +524,7 @@ ul {
     display: block;
     border-radius: 10px;
 }
+/* CSS button trailer */
 .Home_main .js_trailer_button{
     background-color: red;
     padding: 10px 20px;
@@ -601,6 +602,7 @@ ul {
     align-items: center;
     font-size: 28px;
 }
+/* CSS video */
 .video_trailer{
     position: fixed;
     top: 0;
